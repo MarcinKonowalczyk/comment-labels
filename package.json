@@ -2,7 +2,7 @@
     "name": "comment-labels",
     "displayName": "Comment Labels",
     "description": "Create large text comments for easy visual segmentation of code",
-    "version": "1.2.2",
+    "version": "1.3.0",
     "publisher": "jamespgilbert",
     "engines": {
         "vscode": "^1.13.0"
